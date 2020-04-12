@@ -4,7 +4,7 @@ The purpose of this Application is to vizualize the Covid-19 outbreak.
 
 The beginning stages of development will include a base Gmplot (python google Mapping API). A secondary "Heat Map"
 will be overlayed onto the basemap to highlight areas of high concentrations of Covid-19 cases to date of
-creation. 
+creation. The case numbers will be updated from the cdc website "https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html". 
 
 For future progressions of this application a "future cast" of the area affected by this outbreak will be highlighted. 
 
